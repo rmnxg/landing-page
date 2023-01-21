@@ -175,3 +175,12 @@ button {
 .latter {
     border-color: #F9FAF8;
 }
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #F9FAF8;
+    padding: 40px;
+    font-size: 18px;
+}
